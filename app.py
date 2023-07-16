@@ -6,7 +6,7 @@ import pyttsx3
 
 # Getting API_key from env variable
 
-openai.api_key = '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'
+openai.api_key = 'api key goes here'
 
 AIreply = False
 final_msg = ""
